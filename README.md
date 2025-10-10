@@ -1,2 +1,1 @@
-Доброе время суток!
-Вашему вниманию представляется Звадание 2 спринта.
+https://github.com/egorvolkov26021-max/posmotri-v-okno-fd
